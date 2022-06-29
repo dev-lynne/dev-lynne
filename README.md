@@ -5,8 +5,7 @@
 - 👩‍ 💻Check out my portfolio
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lynne2002
- &theme=radical)
+   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lynne2002&theme=radical)
 
 <!---
 Lynne2002/Lynne2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
