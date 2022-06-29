@@ -4,7 +4,7 @@
 <img alt="coding" width="400" align="right" src="https://media.giphy.com/media/6fL4ZqndWKpOM/giphy.gif"
 🌱 I’m currently learning **Python**
 
-👨‍💻 All of my projects are available at [my portfolio]((https://chebet.apprenticecloud.com)
+👨‍💻 All of my projects are available at [my portfolio]((https://chebet.apprenticecloud.com))
 
 📫 How to reach me **@Lynne2002**
 
