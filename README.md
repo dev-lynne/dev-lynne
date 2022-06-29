@@ -35,7 +35,7 @@
                     
                         
                         
-![Recently played spotify playlist](https://spotify-recently-played-readme.vercel.app/api?user=hrvyv47dkbf0p1ooa3y8qw13t)
+![Recently played spotify playlist](https://spotify-recently-played-readme.vercel.app/api?user=hrvyv47dkbf0p1ooa3y8qw13t&width={1000px})
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lynne2002" alt="lynne2002" /></a> </p>
