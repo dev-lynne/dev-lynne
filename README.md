@@ -2,6 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning PHP
 - 💞️ I’m looking to collaborate on Github
+- 👩‍ 💻Check out my portfolio
 
 <!---
 Lynne2002/Lynne2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
