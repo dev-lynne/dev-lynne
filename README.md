@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lynne Chepkwony</h1>
 <h3 align="center">A passionate web developer from Kenya</h3>
-
+<img alt="coding" width="400" align="center" src="https://miro.medium.com/max/1600/0*C-cPP9D2MIyeexAT.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lynne2002&label=Profile%20views&color=0e75b6&style=flat" alt="lynne2002" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lynne2002" alt="lynne2002" /></a> </p>
