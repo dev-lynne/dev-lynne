@@ -13,7 +13,6 @@
 ⚡ Fun fact **I love music**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lynne2002&label=Profile%20views&color=0e75b6&style=flat" alt="lynne2002" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lynne2002" alt="lynne2002" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,7 +28,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lynne2002&" alt="lynne2002" /></p>
 
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lynne2002" alt="lynne2002" /></a> </p>
 
 <!---
 Lynne2002/Lynne2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
