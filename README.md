@@ -2,15 +2,15 @@
 <h1 align="center">Hi 👋, I'm Lynne Chepkwony</h1>
 <h3 align="center">A passionate web developer from Kenya</h3>
 <img alt="coding" width="400" align="right" src="https://media.giphy.com/media/6fL4ZqndWKpOM/giphy.gif"
-- 🌱 I’m currently learning **Python**
+🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [my portfolio](chebet.apprenticecloud.com)
+👨‍💻 All of my projects are available at [my portfolio]((https://chebet.apprenticecloud.com)
 
-- 📫 How to reach me **@Lynne2002**
+📫 How to reach me **@Lynne2002**
 
-- 📄 Know about my experiences [https://cvmkr.com/Mb27N](https://cvmkr.com/Mb27N)
+📄 Know about my experiences [https://cvmkr.com/Mb27N](https://cvmkr.com/Mb27N)
 
-- ⚡ Fun fact **I love music**
+⚡ Fun fact **I love music**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lynne2002&label=Profile%20views&color=0e75b6&style=flat" alt="lynne2002" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lynne2002" alt="lynne2002" /></a> </p>
