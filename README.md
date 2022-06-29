@@ -9,7 +9,7 @@
 
 ⚡ Fun fact **I love music**
 
- ⚽ Another Fun fact **I'm a RED**
+ ⚽ Another Fun fact **I'm a Liverpool fan:)**
  
  👨‍💻 Check out my portfolio [chebet.apprenticecloud.com]((chebet.apprenticecloud.com))
 
