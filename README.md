@@ -2,15 +2,18 @@
 <h1 align="center">Hi 👋, I'm Lynne Chepkwony</h1>
 <h3 align="center">A passionate web developer from Kenya</h3>
 <img alt="coding" width="400" align="right" src="https://media.giphy.com/media/6fL4ZqndWKpOM/giphy.gif"
-🌱 I’m currently learning **Python**
 
-👨‍💻 All of my projects are available at [chebet.apprenticecloud.com]((chebet.apprenticecloud.com))
 
-📫 How to reach me **@Lynne2002**
 
-📄 Know about my experiences [https://cvmkr.com/Mb27N](https://cvmkr.com/Mb27N)
+📄 I am currently learning **Python**
 
 ⚡ Fun fact **I love music**
+
+ ⚽Another Fun fact **I'm a RED**
+ 
+ 👨‍💻 Check out my portfolio [chebet.apprenticecloud.com]((chebet.apprenticecloud.com))
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lynne2002&label=Profile%20views&color=0e75b6&style=flat" alt="lynne2002" /> </p>
 
 
