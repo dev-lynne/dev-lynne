@@ -4,7 +4,7 @@
 <img alt="coding" width="400" align="right" src="https://media.giphy.com/media/6fL4ZqndWKpOM/giphy.gif"
 🌱 I’m currently learning **Python**
 
-👨‍💻 All of my projects are available at [my portfolio]((https://lynne2002.github.io/myportfolio/))
+👨‍💻 All of my projects are available at [https://lynne2002.github.io/myportfolio/]((my portfolio))
 
 📫 How to reach me **@Lynne2002**
 
