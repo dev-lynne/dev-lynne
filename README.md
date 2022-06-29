@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [chebet.apprenticecloud.com](chebet.apprenticecloud.com)
+- 👨‍💻 All of my projects are available at [my portfolio](chebet.apprenticecloud.com)
 
 - 📫 How to reach me **@Lynne2002**
 
