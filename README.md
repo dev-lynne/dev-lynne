@@ -11,7 +11,6 @@
 
  ⚽ Another Fun fact **I'm a Liverpool fan:)**
  
- 👨‍💻 Check out my portfolio [https://lynne2002.github.io/myportfolio/]((https://lynne2002.github.io/myportfolio/))
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lynne2002&label=Profile%20views&color=0e75b6&style=flat" alt="lynne2002" /> </p>
