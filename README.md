@@ -30,12 +30,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lynne2002&" alt="lynne2002" /></p>
                         
- <h3 align="left">My spotify:</h3>                   
-                    
-                        
-                        
-![Recently played spotify playlist](https://spotify-recently-played-readme.vercel.app/api?user=hrvyv47dkbf0p1ooa3y8qw13t)
-
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lynne2002" alt="lynne2002" /></a> </p>
 
