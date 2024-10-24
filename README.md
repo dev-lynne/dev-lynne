@@ -9,7 +9,7 @@
 
 ⚡ Fun fact **I love music**
 
- ⚽ Another Fun fact **I'm a Liverpool fan:)**
+ ⚽ Another Fun fact **YNWA!!!**
  
 
 
