@@ -9,7 +9,7 @@
 
 ⚡ Fun fact **I love music**
 
- ⚽ Another Fun fact **YNWA!!!**
+ ⚽ Another Fun fact: **YNWA!!!**
  
 
 
