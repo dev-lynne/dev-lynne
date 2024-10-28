@@ -29,7 +29,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-lynne&" alt="dev-lynne" /></p>
                         
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lynne2002" alt="lynne2002" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-lynne" alt="dev-lynne" /></a> </p>
 
 <!---
 Lynne2002/Lynne2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
