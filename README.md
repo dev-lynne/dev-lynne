@@ -1,4 +1,5 @@
-[![Masterhead](https://klaxos.com/wp-content/uploads/2017/12/writer-desk.jpg)](https://chebet.apprenticecloud.com)
+![Masterhead](https://klaxos.com/wp-content/uploads/2017/12/writer-desk.jpg)
+
 <h1 align="center">Hi 👋, I'm Lynne Chepkwony</h1>
 <h3 align="center">Learning and writing everyday</h3>
 <img alt="coding" width="400" align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"
