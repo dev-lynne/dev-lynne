@@ -31,7 +31,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-lynne&show_icons=true&locale=en" alt="dev-lynne" /></p>
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-lynne)](https://github.com/dev-lynne/github-readme-stats)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-lynne&" alt="dev-lynne" /></p>
 
